@@ -19,6 +19,16 @@ h2 {
     color: #184f63;
 }
 
+/* Hero Section */
+#hero {
+    background-color: #dbdcde;
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    background-position: 50% 70%;
+    padding: 5% 7%;
+    min-height: 500px;
+}
+
 /* About Section */
 #about {
     background-color: white;
