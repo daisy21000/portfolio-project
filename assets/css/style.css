@@ -19,6 +19,11 @@ h2 {
     color: #184f63;
 }
 
+.sharp-corners,
+.sharp-corners * {
+    border-radius: 1px;
+}
+
 /* Hero Section */
 #hero {
     background-color: #dbdcde;
