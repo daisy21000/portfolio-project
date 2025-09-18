@@ -24,6 +24,17 @@ h2 {
     border-radius: 1px;
 }
 
+/* Buttons */
+.custom-button {
+    background-color: #1f7798;
+    border-color: #1f7798;
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
+}
+
 /* Hero Section */
 #hero {
     background-color: #dbdcde;
